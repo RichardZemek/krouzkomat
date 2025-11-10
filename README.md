@@ -45,6 +45,3 @@ Nahradí ruční evidenci v Excelu a papírové seznamy, zajistí přehlednost, 
 - Automatické notifikace o blížící se platbě  
 - Integrace s elektronickou žákovskou knihou  
 
-## Odevzdání  
-Soubor README.md uložte do veřejného GitHub repozitáře (např. `https://github.com/tvuj-ucet/krouzkomat`).  
-Do PDF odevzdejte klikatelný odkaz na tento repozitář.  
