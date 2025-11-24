@@ -1,4 +1,5 @@
 # Informační systém pro správu školních kroužků "Kroužkomat"
+[Otevřít Figma – Kroužkomat](https://www.figma.com/site/bZTs3tYOYvtam9k8ww3fs9/Krouzkomat--Wireframy?node-id=0-1&t=0Ps0PHVjfpHM8m1P-1)
 
 ## Krátký popis  
 Webová aplikace pro správu školních kroužků, která umožňuje učitelům a žákům přehledně organizovat přihlášky, docházku a platby.  
